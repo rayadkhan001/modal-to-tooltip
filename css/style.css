@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*carousel starts*/
+.banner{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/*carousel ends*/
+/*custome layout start*/
+.header, .hero, .body, .bar, .footer{
+    margin-bottom: 30px;
+    border: 1px solid black;
+    background-color: teal;
+}
+.box{
+    margin: 10px 0;
+    min-height: 80px;
+    background-color: red;
+    font-size: 30px
+    color: white;
+}
+.red{
+    background-color: lime;
+}
+.five{
+    background-color: blue;
+}
+/*custome layout end*/
+.t_c{
+	margin-bottom: 30px;
+	border: 1px solid black;
+	background-color: #f1f1f1;
+    box-sizing: border-box; 
+}
+.stlye{
+    border: 1px solid #000;
+    background-color: #f1f1f1;
+    box-sizing: border-box;
+}
+.bdr_line{
+	margin-bottom: 20px;
+	border: 1px solid black;
+	padding: 30px;
+}
+.jcc{
+	text-align: center;
+	justify-content: center;
+}
+.dpf{
+	display: flex;
+}
+.m_b{
+	margin-bottom: 20px;
+}

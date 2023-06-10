@@ -1,0 +1,57 @@
+/* 'col' Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*	.lime{
+		display: none;
+	}*/
+/*	.red{
+		display: none;
+	}*/
+}
+
+/* Small devices (landscape phones, 576px and above) */
+@media (min-width: 576px) and (max-width: 767.98) {
+/*	.red{
+		display: none;
+	}*/
+}
+
+/* Medium devices (tablets,768px and above) */
+@media (min-width: 768px) and (max-width: 991.98) {
+
+}
+
+/* Large devices (desktops, 992px and above) */
+@media (min-width: 992px) and (max-width: 1199.98) {
+
+}
+
+/* Extra large devices (1200px and above) */
+@media (min-width: 1200px) and (max-width: 1399.98) {
+
+}
+
+/* Extra large devices (1200px and above) */
+@media (min-width: 1400px) /*and (max-width: 1599.98)*/ {
+
+}
+
+/* Extra large devices (1200px and above) */
+/*@media (min-width: 1400px) and (max-width: 1599.98) {
+
+}*/
+
+/* Extra large devices (1200px and above) */
+/*@media (min-width: 1500px) and (max-width: 1999.98) {
+
+}*/
+
+/* Extra extra large devices (large desktops,1400px and above) */
+/*@media (min-width: 2000px) {
+
+}*/
+
+/*@include media-breakpoint-up(sm) { ... }
+@include media-breakpoint-up(md) { ... }
+@include media-breakpoint-up(lg) { ... }
+@include media-breakpoint-up(xl) { ... }
+@include media-breakpoint-up(xxl) { ... }*/
